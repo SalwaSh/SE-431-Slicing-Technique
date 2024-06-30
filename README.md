@@ -31,6 +31,12 @@ To ensure accurate slicing results and compatibility with the tool, please obser
 - Unassigned variables are not supported; all variables must be initialized and assigned a value.
 - Print statements are disregarded in the analysis.
 
+### ScreenShots 📷
+
+some of the expected output from our slicing tool:
+
+![image](https://github.com/SalwaSh/SE431-Slicing-Technique/assets/97047182/93172b45-1f3a-4aaf-8d9d-6b74bc548171)
+
 ## Contributors ✍️
 
 - Bassant Mahmoud
